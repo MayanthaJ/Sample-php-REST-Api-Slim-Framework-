@@ -1,4 +1,4 @@
-End points
+End points </br>
 1.public/index.php/hello/[your name]
 output : Hello,[your name]
 
